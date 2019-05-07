@@ -1,2 +1,2 @@
 # types
-personal typings definition
+personal typing definitions
